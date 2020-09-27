@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88673" started-at="2020-09-27T16:00:49Z" finished-at="2020-09-27T16:02:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88673" started-at="2020-09-27T16:00:49Z" finished-at="2020-09-27T16:02:17Z">
+      <class name="com.qa.testscripts.Youtube">
+        <test-method status="PASS" signature="youtube()[pri:0, instance:com.qa.testscripts.Youtube@cc285f4]" name="youtube" duration-ms="35371" started-at="2020-09-27T16:01:42Z" finished-at="2020-09-27T16:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtube -->
+      </class> <!-- com.qa.testscripts.Youtube -->
+      <class name="com.qa.testscripts.Facebook">
+        <test-method status="PASS" signature="facebook()[pri:0, instance:com.qa.testscripts.Facebook@29ee9faa]" name="facebook" duration-ms="35520" started-at="2020-09-27T16:00:49Z" finished-at="2020-09-27T16:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+      </class> <!-- com.qa.testscripts.Facebook -->
+      <class name="com.qa.testscripts.Google">
+        <test-method status="PASS" signature="google()[pri:0, instance:com.qa.testscripts.Google@c038203]" name="google" duration-ms="17678" started-at="2020-09-27T16:01:24Z" finished-at="2020-09-27T16:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+      </class> <!-- com.qa.testscripts.Google -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
